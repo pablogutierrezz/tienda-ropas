@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tienda-ropas/static/css/main.263710e0.css",
+    "main.js": "/tienda-ropas/static/js/main.98eb2e4e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/tienda-ropas/static/js/787.28cb0dcd.chunk.js",
+    "static/media/paisaje.jpg": "/tienda-ropas/static/media/paisaje.804416f5e4bc540364cd.jpg",
+    "static/media/people.jpg": "/tienda-ropas/static/media/people.813e426ad2a8da19ec41.jpg",
+    "index.html": "/tienda-ropas/index.html",
+    "main.263710e0.css.map": "/tienda-ropas/static/css/main.263710e0.css.map",
+    "main.98eb2e4e.js.map": "/tienda-ropas/static/js/main.98eb2e4e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/tienda-ropas/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.263710e0.css",
+    "static/js/main.98eb2e4e.js"
+  ]
+}
